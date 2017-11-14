@@ -7,7 +7,7 @@
                 float: left;
 			    margin-bottom: 15px;
 			    margin-right: 5px;
-			    width: 200px;
+			    width: 150px;
 			    padding: 0;
             }
             /*.portfolio-gallery > ul > li:first-child{
@@ -20,6 +20,7 @@
                 overflow: hidden;
                 position: relative;
                 float: left;
+                width: 100%;
             }
             .portfolio-gallery > ul > li a > img {
                 -webkit-transition: -webkit-transform 0.15s ease 0s;
@@ -121,6 +122,8 @@
             .row .portfolio-gallery {
                 margin: 0 30px;
             }
+
+            
 </style>
 <div class="fh5co-narrow-content">
 	<h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">We Love To Develop<span> See Our Portfolio</span></h2>
@@ -128,75 +131,85 @@
 		<div class="portfolio-gallery">
             <ul id="lightgallery" class="list-unstyled row">
                 <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="images/portfolio/1.jpg" data-src="images/portfolio/1.jpg" 
-                	data-sub-html="<h4>Fading Light</h4><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>
-                	<div style='text-align:center'><a href='https://api.whatsapp.com/send?phone=6287786407337' class='btn btn-primary btn-outline'>Hire Me</a></div>" 
+                	data-sub-html="<h4>Pejaten Jaya Kaca</h4><br>
+                	<div style='text-align:center'><a href='https://api.whatsapp.com/send?phone=6287786407337' class='btn btn-primary'>Hire Me</a></div>" 
                 	data-pinterest-text="Pin it" 
                 	data-tweet-text="share on twitter">
                     <a href="">
-                        <img class="img-responsive" src="images/portfolio/1.jpg" alt="Thumb-1">
+                        <img class="img-responsive" src="images/portfolio/thumb-1.png" alt="Thumb-1">
                     </a>
                 </li>
                 <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="images/portfolio/2.png" data-src="images/portfolio/2.png" 
-                	data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>
-                	<div style='text-align:center'><a href='https://api.whatsapp.com/send?phone=6287786407337' class='btn btn-primary btn-outline'>Hire Me</a></div>" 
+                	data-sub-html="<h4>Kineria Movies</h4><br>
+                	<div style='text-align:center'><a href='https://api.whatsapp.com/send?phone=6287786407337' class='btn btn-primary'>Hire Me</a></div>" 
                 	data-pinterest-text="Pin it" 
                 	data-tweet-text="share on twitter">
                     <a href="">
-                        <img class="img-responsive" src="images/portfolio/2.png" alt="Thumb-2">
+                        <img class="img-responsive" src="images/portfolio/thumb-2.png" alt="Thumb-2">
                     </a>
                 </li>
                 <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="images/portfolio/10.png" data-src="images/portfolio/10.png" 
-                	data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>
-                	<div style='text-align:center'><a href='https://api.whatsapp.com/send?phone=6287786407337' class='btn btn-primary btn-outline'>Hire Me</a></div>" 
+                	data-sub-html="<h4>ARMS Insurance</h4><br>
+                	<div style='text-align:center'><a href='https://api.whatsapp.com/send?phone=6287786407337' class='btn btn-primary'>Hire Me</a></div>" 
                 	data-pinterest-text="Pin it" 
                 	data-tweet-text="share on twitter">
                     <a href="">
-                        <img class="img-responsive" src="images/portfolio/10.png" alt="Thumb-3">
+                        <img class="img-responsive" src="images/portfolio/thumb-10.png" alt="Thumb-3">
                     </a>
                 </li>
                 <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="images/portfolio/4.png" data-src="images/portfolio/4.png" 
-	                data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>
-	                <div style='text-align:center'><a href='https://api.whatsapp.com/send?phone=6287786407337' class='btn btn-primary btn-outline'>Hire Me</a></div>" 
+	                data-sub-html="<h4>Ednamu Architecture</h4><br>
+	                <div style='text-align:center'><a href='https://api.whatsapp.com/send?phone=6287786407337' class='btn btn-primary'>Hire Me</a></div>" 
 	                data-pinterest-text="Pin it" 
 	                data-tweet-text="share on twitter">
                     <a href="">
-                        <img class="img-responsive" src="images/portfolio/4.png" alt="Thumb-4">
+                        <img class="img-responsive" src="images/portfolio/thumb-4.png" alt="Thumb-4">
                     </a>
                 </li>
                 <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="images/portfolio/5.png" data-src="images/portfolio/5.png" 
-                	data-sub-html="<h4>Fading Light</h4><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>
-                	<div style='text-align:center'><a href='https://api.whatsapp.com/send?phone=6287786407337' class='btn btn-primary btn-outline'>Hire Me</a></div>" 
+                	data-sub-html="<h4>Pejaten Jaya Abadi</h4><br>
+                	<div style='text-align:center'><a href='https://api.whatsapp.com/send?phone=6287786407337' class='btn btn-primary'>Hire Me</a></div>" 
                 	data-pinterest-text="Pin it" 
                 	data-tweet-text="share on twitter">
                     <a href="">
-                        <img class="img-responsive" src="images/portfolio/5.png" alt="Thumb-1">
+                        <img class="img-responsive" src="images/portfolio/thumb-5.png" alt="Thumb-1">
                     </a>
                 </li>
                 <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="images/portfolio/6.png" data-src="images/portfolio/6.png" 
-                	data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>
-                	<div style='text-align:center'><a href='https://api.whatsapp.com/send?phone=6287786407337' class='btn btn-primary btn-outline'>Hire Me</a></div>" 
+                	data-sub-html="<h4>Roli Web</h4><br>
+                	<div style='text-align:center'><a href='https://api.whatsapp.com/send?phone=6287786407337' class='btn btn-primary'>Hire Me</a></div>" 
                 	data-pinterest-text="Pin it" 
                 	data-tweet-text="share on twitter">
                     <a href="">
-                        <img class="img-responsive" src="images/portfolio/6.png" alt="Thumb-2">
+                        <img class="img-responsive" src="images/portfolio/thumb-6.png" alt="Thumb-2">
                     </a>
                 </li>
                 <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="images/portfolio/7.png" data-src="images/portfolio/7.png" 
-                	data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>
-                	<div style='text-align:center'><a href='https://api.whatsapp.com/send?phone=6287786407337' class='btn btn-primary btn-outline'>Hire Me</a></div>" 
+                	data-sub-html="<h4>Stikes Kesosi</h4><br>
+                	<div style='text-align:center'><a href='https://api.whatsapp.com/send?phone=6287786407337' class='btn btn-primary'>Hire Me</a></div>" 
                 	data-pinterest-text="Pin it" 
                 	data-tweet-text="share on twitter">
                     <a href="">
-                        <img class="img-responsive" src="images/portfolio/7.png" alt="Thumb-3">
+                        <img class="img-responsive" src="images/portfolio/thumb-7.png" alt="Thumb-3">
                     </a>
                 </li>
                 <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="images/portfolio/8.png" data-src="images/portfolio/8.png" 
-	                data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>
-	                <div style='text-align:center'><a href='https://api.whatsapp.com/send?phone=6287786407337' class='btn btn-primary btn-outline'>Hire Me</a></div>" 
+	                data-sub-html="<h4>Jenius Apps</h4><br>
+	                <div style='text-align:center'><a href='https://api.whatsapp.com/send?phone=6287786407337' class='btn btn-primary'>Hire Me</a></div>" 
 	                data-pinterest-text="Pin it" 
 	                data-tweet-text="share on twitter">
                     <a href="">
-                        <img class="img-responsive" src="images/portfolio/8.png" alt="Thumb-4">
+                        <img class="img-responsive" src="images/portfolio/thumb-8.png" alt="Thumb-4">
+                    </a>
+                </li>
+
+                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="images/portfolio/9.png" data-src="images/portfolio/9.png" 
+                    data-sub-html="<h4>School Apps</h4><br>
+                    <div style='text-align:center'><a href='https://api.whatsapp.com/send?phone=6287786407337' class='btn btn-primary'>Hire Me</a></div>" 
+                    data-pinterest-text="Pin it" 
+                    data-tweet-text="share on twitter">
+                    <a href="">
+                        <img class="img-responsive" src="images/portfolio/thumb-9.png" alt="Thumb-4">
                     </a>
                 </li>
             </ul>

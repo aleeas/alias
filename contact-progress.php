@@ -14,11 +14,7 @@ if (!preg_match("/([\w\-]+\@[\w\-]+\.[\w\-]+)/", $email))
     show_error("E-mail address not valid");
 }
 
-/* If URL is not valid set $website to empty */
-if (!preg_match("/^(https?:\/\/+[\w\-]+\.[\w\-]+)/i", $website))
-{
-    $website = '';
-}
+
 
 /* Let's prepare the message for the e-mail */
 $message = "Hello!
